@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #f0f0f0;
+    background-color:yellow;
     padding: 1em;
     text-align: center;
 }
