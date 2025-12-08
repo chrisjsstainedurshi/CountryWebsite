@@ -65,3 +65,10 @@ footer {
   text-align: center;
   clear: both;
 }
+
+.container{
+  display:flex;
+}
+.containerdic{
+  flex:1;
+}
